@@ -1,3 +1,7 @@
 ﻿# senai-versoes-colaboracoes
 Apresentação de Projeto
-Prego
+
+
+
+lembrei o comando: git status
+Lembrei do comando git commit
